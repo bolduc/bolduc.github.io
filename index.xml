@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Academic</title>
+    <link>https://bolduc.github.io/</link>
+    <description>Recent content in Academic on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>vConTACT: an iVirus tool to classify double-stranded DNA viruses that infect Archaea and Bacteria</title>
+      <link>https://bolduc.github.io/publication/vcontact/</link>
+      <pubDate>Sat, 27 May 2017 19:24:46 -0400</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/vcontact/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iVirus</title>
+      <link>https://bolduc.github.io/project/ivirus/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/project/ivirus/</guid>
+      <description>&lt;p&gt;The iVirus project is a collaboration between the &lt;a href=&#34;http://www.hurwitzlab.org/&#34; target=&#34;_blank&#34;&gt;Hurwitz&lt;/a&gt; lab, of the University of Arizona, and the &lt;a href=&#34;https://u.osu.edu/viruslab/&#34; target=&#34;_blank&#34;&gt;Sullivan&lt;/a&gt; lab, of the Ohio State University. It arose from noticing the painfully obvious need to make viral ecology tools open and available to the viral ecology community. With the recent (well, for the past decade or so) rise in next-generation sequencing, the field of viral ecology has dramatically expanded our knowledge of the &amp;ldquo;virosphere&amp;rdquo;, led in no small part by the dramatically lower cost to sequence environmental viruses. With the dramatic influx of huge amounts of sequencing data, it&amp;rsquo;s becoming an ever-increasing challenge to process these datasets. Luckily, iVirus leverages the &lt;a href=&#34;http://www.cyverse.org/&#34; target=&#34;_blank&#34;&gt;CyVerse&lt;/a&gt; cyberinfrastructure, an NSF-funded project that seeks to address the challenges of large-scale data analysis. It comes with data storage (both public and private), a GUI interface, and 1000s of &amp;ldquo;apps&amp;rdquo; (read: tools) that researchers can use to process their data. It&amp;rsquo;s &lt;em&gt;entirely possible&lt;/em&gt; to go from raw sequencing data from a sequencing center to fully analyzed viral metagenomes.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img style=&#34;float: right;&#34; src=&#34;https://bolduc.github.io/img/iVirus-Figure1_v3.png&#34;&gt;
+  &lt;figcaption&gt;&lt;a href=&#34;http://www.nature.com/ismej/journal/v11/n1/full/ismej201689a.html&#34; target=&#34;_blank&#34;&gt;Bolduc et al, 2017&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You can read more about the project at its home, the &lt;a href=&#34;http://ivirus.us/&#34; target=&#34;_blank&#34;&gt;iVirus project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>vConTACT</title>
+      <link>https://bolduc.github.io/project/vcontact/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/project/vcontact/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img style=&#34;float: right;&#34; src=&#34;https://bolduc.github.io/img/vcontact-Figure1.png&#34;&gt;
+  &lt;figcaption&gt;&lt;a href=&#34;https://peerj.com/articles/3243/&#34; target=&#34;_blank&#34;&gt;Bolduc and Jang et al, 2017&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Prevalence of STIV c92-Like Protein in Acidic Thermal Environments</title>
+      <link>https://bolduc.github.io/publication/stiv_c92_proteins/</link>
+      <pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/stiv_c92_proteins/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iVirus: facilitating new insights in viral ecology with software and community data sets imbedded in a cyberinfrastructure</title>
+      <link>https://bolduc.github.io/publication/ivirus/</link>
+      <pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/ivirus/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Viral assemblage composition in Yellowstone acidic hot springs assessed by network analysis</title>
+      <link>https://bolduc.github.io/publication/ynp_networks/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/ynp_networks/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Archaeal Viruses: Diversity, Replication, and Structure</title>
+      <link>https://bolduc.github.io/publication/archaeal_virus_review/</link>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/archaeal_virus_review/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Positive-Strand RNA Viruses by Metagenomic Analysis of Archaea-Dominated Yellowstone Hot Springs</title>
+      <link>https://bolduc.github.io/publication/archaeal_rna_viruses/</link>
+      <pubDate>Wed, 29 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/archaeal_rna_viruses/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A target-unrelated peptide in an M13 phage display library traced to an advantageous mutation in the gene II ribosome-binding site</title>
+      <link>https://bolduc.github.io/publication/tup_m13/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/tup_m13/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyverse on Academic</title>
+    <link>https://bolduc.github.io/tags/cyverse/</link>
+    <description>Recent content in Cyverse on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bolduc.github.io/tags/cyverse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iVirus</title>
+      <link>https://bolduc.github.io/project/ivirus/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/project/ivirus/</guid>
+      <description>The iVirus project is a collaboration between the Hurwitz lab, of the University of Arizona, and the Sullivan lab, of the Ohio State University. It arose from noticing the painfully obvious need to make viral ecology tools open and available to the viral ecology community. With the recent (well, for the past decade or so) rise in next-generation sequencing, the field of viral ecology has dramatically expanded our knowledge of the &amp;ldquo;virosphere&amp;rdquo;, led in no small part by the dramatically lower cost to sequence environmental viruses.</description>
+    </item>
+    
+    <item>
+      <title>vConTACT</title>
+      <link>https://bolduc.github.io/project/vcontact/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/project/vcontact/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+  </channel>
+</rss>

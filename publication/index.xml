@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Academic</title>
+    <link>https://bolduc.github.io/publication/</link>
+    <description>Recent content in Publications on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bolduc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>vConTACT: an iVirus tool to classify double-stranded DNA viruses that infect Archaea and Bacteria</title>
+      <link>https://bolduc.github.io/publication/vcontact/</link>
+      <pubDate>Sat, 27 May 2017 19:24:46 -0400</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/vcontact/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>The Prevalence of STIV c92-Like Protein in Acidic Thermal Environments</title>
+      <link>https://bolduc.github.io/publication/stiv_c92_proteins/</link>
+      <pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/stiv_c92_proteins/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>iVirus: facilitating new insights in viral ecology with software and community data sets imbedded in a cyberinfrastructure</title>
+      <link>https://bolduc.github.io/publication/ivirus/</link>
+      <pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/ivirus/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Viral assemblage composition in Yellowstone acidic hot springs assessed by network analysis</title>
+      <link>https://bolduc.github.io/publication/ynp_networks/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/ynp_networks/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Archaeal Viruses: Diversity, Replication, and Structure</title>
+      <link>https://bolduc.github.io/publication/archaeal_virus_review/</link>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/archaeal_virus_review/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Identification of Positive-Strand RNA Viruses by Metagenomic Analysis of Archaea-Dominated Yellowstone Hot Springs</title>
+      <link>https://bolduc.github.io/publication/archaeal_rna_viruses/</link>
+      <pubDate>Wed, 29 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/archaeal_rna_viruses/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>A target-unrelated peptide in an M13 phage display library traced to an advantageous mutation in the gene II ribosome-binding site</title>
+      <link>https://bolduc.github.io/publication/tup_m13/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolduc.github.io/publication/tup_m13/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
